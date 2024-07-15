@@ -1,0 +1,16 @@
+!/bin/bash
+
+
+echo hello
+name=ganesh
+age=24
+
+echo my name is $name and my age is $age
+
+
+host=hostname
+
+echo my host name is $host
+
+
+
